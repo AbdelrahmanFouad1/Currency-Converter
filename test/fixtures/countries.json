@@ -1,0 +1,20 @@
+{
+  "results": {
+    "KW": {
+      "currencyId": "KWD",
+      "currencyName": "Kuwaiti dinar",
+      "name": "Kuwait",
+      "alpha3": "KWT",
+      "id": "KW",
+      "currencySymbol": "د.ك"
+    },
+    "EG": {
+      "alpha3": "EGY",
+      "currencyId": "EGP",
+      "currencyName": "Egyptian pound",
+      "currencySymbol": "£",
+      "id": "EG",
+      "name": "Egypt"
+    }
+  }
+}
